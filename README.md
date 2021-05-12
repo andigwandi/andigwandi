@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andigwandi
 - 👀 I’m interested in ... learning new things everyday
-- 🌱 I’m currently learning ... React, NodeJs
+- 🌱 I’m currently learning ... React, NodeJs and Python
 - 💞️ I’m looking to collaborate on ... DevOps and Automation
 
 <!---
