@@ -23,5 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Donate to Support
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=8GRY5NKVAMDU8&no_recurring=0&currency_code=USD)
