@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 [![github stats](https://mygitstats.vercel.app/api?username=andigwandi&show_icons=true&theme=cobalt&count_private=true)](https://mygitstats.vercel.app/api?username=andigwandi&show_icons=true&theme=cobalt&count_private=true)
 [![top lang](https://mygitstats.vercel.app/api/top-langs?username=andigwandi&show_icons=true&theme=tokyonight&layout=compact)](https://mygitstats.vercel.app/api/top-langs?username=andigwandi&show_icons=true&theme=tokyonight&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andigwandi&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andigwandi&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=andigwandi&theme=dark) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andigwandi&theme=dark)
 [![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andigwandi&theme=cobalt)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andigwandi&theme=cobalt)
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=andigwandi&theme=juicyfresh&no-bg=true&no-frame=true&column=4"><img src="https://github-profile-trophy.vercel.app/?username=andigwandi&theme=juicyfresh&no-bg=true&no-frame=true&column=4&" alt="ankit chaubey" /></a> </p>
+[![profile trophies](http://trophy.ryglcloud.net/?username=andigwandi)
 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=8GRY5NKVAMDU8&no_recurring=0&currency_code=USD)
